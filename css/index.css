@@ -43,6 +43,7 @@
 /*菜单*/
 .index-menu{
 position: relative;
+<<<<<<< HEAD
 border-top: 4px solid #f34949;
 }
 .index-menu .menu-tips{
@@ -84,3 +85,7 @@ border-top: 4px solid #f34949;
 	margin-bottom: 56px;
 }
 .index-menu .title{}
+=======
+border-top: 4px solid 
+}
+>>>>>>> 9825d5c0dd772e04c52992c2d5b6a8d6f6f434ec
